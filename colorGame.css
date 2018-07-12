@@ -25,3 +25,13 @@ h1 {
 span {
     color: white;
 }
+
+#stripe {
+    background: white;
+    height: 30px;
+    text-align: center;
+}
+
+#message {
+    color: black;
+}
